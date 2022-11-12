@@ -1,7 +1,5 @@
 # Machine Learning Task - DB Schenker
 
-To be revert later
-to build an accurate model able to predict the costs using the provided data
 
 ### **Steps To **
 
